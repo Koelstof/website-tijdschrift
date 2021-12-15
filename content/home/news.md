@@ -20,5 +20,7 @@ content:
   page_type: post
 design:
   view: 3
-  columns: "1"
+  columns: "3"
+  
+Zou deze tekst ook verschijnen?
 ---
